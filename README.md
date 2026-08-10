@@ -1,4 +1,9 @@
 # Lab 01 - Environment, Git, and Tracebacks
+student:戴郁修
+N97131056
+Python 3.11.15
+python -m pytest -q
+
 
 > Course block: D1-B1, 09:00-12:00  
 > Estimated total work: approximately 110 minutes  
