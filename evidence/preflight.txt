@@ -1,0 +1,53 @@
+Paste each command followed by its complete text output here.
+
+1. python --version
+
+(ncku-lab01) PS D:\python_game\lab01_student_starter\lab01-work> python --version
+Python 3.11.15
+
+2. python -c "import sys; print(sys.executable)"
+
+(ncku-lab01) PS D:\python_game\lab01_student_starter\lab01-work> python -c "import sys; print(sys.executable)"
+C:\Users\stu88\anaconda3\envs\ncku-lab01\python.exe
+
+3. python -c "import struct; print(struct.calcsize('P') * 8)"
+
+(ncku-lab01) PS D:\python_game\lab01_student_starter\lab01-work> python -c "import struct; print(struct.calcsize('P') * 8)"
+64
+
+4. python -m pip --version
+
+(ncku-lab01) PS D:\python_game\lab01_student_starter\lab01-work> python -m pip --version
+pip 26.2.1 from C:\Users\stu88\anaconda3\envs\ncku-lab01\Lib\site-packages\pip (python 3.11)
+
+5. python -m pytest --version
+
+(ncku-lab01) PS D:\python_game\lab01_student_starter\lab01-work> python -m pytest --version
+pytest 9.1.1
+
+6. git --version
+
+(ncku-lab01) PS D:\python_game\lab01_student_starter\lab01-work> git --version
+git version 2.55.0.windows.3
+
+7. git status
+
+(ncku-lab01) PS D:\python_game\lab01_student_starter\lab01-work> git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        README.md
+        evidence/
+        requirements.txt
+        rubric.md
+        src/
+        submission_checklist.md
+        tests/
+        tests_public/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
